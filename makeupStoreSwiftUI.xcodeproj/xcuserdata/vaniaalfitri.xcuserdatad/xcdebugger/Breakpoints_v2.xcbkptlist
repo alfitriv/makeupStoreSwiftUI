@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC23D4B3-E489-4BE6-9F9B-5094EC7F70B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABE0A596-2BC9-4ABD-BEF4-CEF5B149E94C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchBrands()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ABE0A596-2BC9-4ABD-BEF4-CEF5B149E94C - 2ddb9de99198c42e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for makeupStoreSwiftUI.HomeViewModel.fetchBrands() async -&gt; ()"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "ABE0A596-2BC9-4ABD-BEF4-CEF5B149E94C - 8b007b0316cde4c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for makeupStoreSwiftUI.HomeViewModel.fetchBrands() async -&gt; ()"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "ABE0A596-2BC9-4ABD-BEF4-CEF5B149E94C - e448885ad2da1018"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for makeupStoreSwiftUI.HomeViewModel.fetchBrands() async -&gt; ()"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "ABE0A596-2BC9-4ABD-BEF4-CEF5B149E94C - 5ffef2f275bd461d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for makeupStoreSwiftUI.HomeViewModel.fetchBrands() async -&gt; ()"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7B8CBA7-C90C-4BED-B362-F10F16100BEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchBrands()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1322118-36F0-417D-B0BD-8D2DAE29500E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "fetchMakeUpList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83FBDDE5-6490-47E3-BA4F-2E319E2E9E43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "fetchMakeUpList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88341804-1A84-451F-8B0B-AB390A01E523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "88341804-1A84-451F-8B0B-AB390A01E523 - 939744a8cb3e2b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(makeupStoreSwiftUI.BannerView, makeupStoreSwiftUI.DiscoverListView)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in makeupStoreSwiftUI.ContentView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "88341804-1A84-451F-8B0B-AB390A01E523 - 939744a8cb3e2b09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(makeupStoreSwiftUI.BannerView, makeupStoreSwiftUI.DiscoverListView)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in makeupStoreSwiftUI.ContentView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0EDA6D34-41AE-44C7-B0FD-197DBF6D3126"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0EDA6D34-41AE-44C7-B0FD-197DBF6D3126 - 80b4af1cf82bb603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt; in makeupStoreSwiftUI.DiscoverListView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "0EDA6D34-41AE-44C7-B0FD-197DBF6D3126 - b1bf4f91b7d9387c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (makeupStoreSwiftUI.Makeup) -&gt; Swift.Optional&lt;Swift.String&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt; in makeupStoreSwiftUI.DiscoverListView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "0EDA6D34-41AE-44C7-B0FD-197DBF6D3126 - 80b4af1cf82bb603"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt; in makeupStoreSwiftUI.DiscoverListView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACF1B636-2A27-4024-8A5D-C3B554B51B0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "ACF1B636-2A27-4024-8A5D-C3B554B51B0A - 80b4af1cf82bb1e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt; in makeupStoreSwiftUI.DiscoverListView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "ACF1B636-2A27-4024-8A5D-C3B554B51B0A - 61767f6b1b9a2be5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.String&gt;) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Optional&lt;Swift.String&gt;&gt;, Swift.Optional&lt;Swift.String&gt;, SwiftUI.Text&gt;&gt; in makeupStoreSwiftUI.DiscoverListView.body.getter : some"
+                  moduleName = "makeupStoreSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaniaalfitri/Desktop/makeupStoreSwiftUI/makeupStoreSwiftUI/Discover/DiscoverListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
